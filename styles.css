@@ -1,0 +1,35 @@
+
+header {
+    background-color: #443b5d;
+}
+nav ul {
+    display: flex;
+    padding: 30px;
+    margin: 1px;
+    font-size: 30px;
+    font-weight: 800;
+    list-style-type: none; 
+}
+nav li {
+    margin: 30px;
+    color: #ffffff;
+}
+.btn {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    width: 180px;
+    font-size: 25px;
+    font-weight: 800;
+    background-color: white;
+    color: #443b5d;
+}
+
+.logo {
+    padding-right: 250px;
+    width: 100px;
+    height: 100px;
+}
+.active {
+    color: #8b5d4f;
+}
+
