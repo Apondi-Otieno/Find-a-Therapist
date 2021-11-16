@@ -42,3 +42,8 @@ body{
 .float{
     float: right;
 }
+.choose{
+    background-color: #443b5d;
+    height: 300px;
+}
+#center{text-align: center;}
