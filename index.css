@@ -85,3 +85,25 @@ font-size: 40px;
 }
 .shadow{height: 100px;
 text-align: center;}
+.footer{
+    height: 80px;
+background-color: #443b5d;
+display: flex;
+text-align: center;
+
+}
+.copyright{font-size: 30px;
+  margin: 20px 300px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+
+
+
+text-align: center;
+
+color: #EECCCC;
+
+
+}
