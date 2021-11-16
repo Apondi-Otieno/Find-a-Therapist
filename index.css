@@ -61,5 +61,10 @@ body{
     position: relative;
 }
 .what-we-do{
-    height: 300px;
+    height: 500px;
+}
+.image3{
+    align-self: center;
+    position: relative;
+    align-items: center;
 }
