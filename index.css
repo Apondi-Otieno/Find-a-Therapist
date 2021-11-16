@@ -47,3 +47,7 @@ body{
     height: 300px;
 }
 #center{text-align: center;}
+.display{
+    display: flex;
+    justify-content: space-evenly;
+}
