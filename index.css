@@ -52,4 +52,14 @@ body{
 .display{
     display: flex;
     justify-content: space-evenly;
+
+}
+.displa{
+    display: flex;
+    justify-content: space-evenly;
+    bottom: 25px;
+    position: relative;
+}
+.what-we-do{
+    height: 300px;
 }
