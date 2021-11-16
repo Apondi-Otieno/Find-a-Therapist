@@ -61,10 +61,27 @@ body{
     position: relative;
 }
 .what-we-do{
-    height: 500px;
+    height: 594px;
 }
 .image3{
     align-self: center;
     position: relative;
     align-items: center;
 }
+.care{
+    height: 150px;
+    background-color: #443b5d;
+}
+.font{
+    font-size: 45px;
+    text-align: center;
+    margin: 35px;
+}
+.buttonn{border-radius: 25px;
+background-color: #443b5d;
+padding: 20px;
+color: #EECCCC;
+font-size: 40px;
+}
+.shadow{height: 100px;
+text-align: center;}
