@@ -34,6 +34,8 @@ body{
 .about{
     height: 300px;
 }
+.float >h1{color: #443b5d;}
+.float >p{ color:  #8b5d4f;}
 #image2{
     height: 300px;
     padding: 25px;
