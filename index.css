@@ -1,12 +1,12 @@
-body{
+.container{
     background-color: #EECCCC;
 }
-.navbar{
+.logo{
     justify-content: center;
     background-color: #443b5d;
     height: 80px;
 }
-.nav >li{
+.back >li{
     /* justify-content: center; */
     list-style: none;
     display:inline-flex;
@@ -26,7 +26,7 @@ body{
 }
 #image{height: 80px;}
 
-.nav{text-align: center;
+.back{text-align: center;
       bottom: 80px;
       position: relative;
 
@@ -52,6 +52,7 @@ body{
 .display{
     display: flex;
     justify-content: space-evenly;
+    color: #EECCCC;
 
 }
 .displa{
@@ -59,14 +60,20 @@ body{
     justify-content: space-evenly;
     bottom: 25px;
     position: relative;
+    color: #EECCCC;
 }
 .what-we-do{
     height: 594px;
 }
+.what-we-do>p{
+    color: #8b5d4f;
+}
 .image3{
-    align-self: center;
-    position: relative;
-    align-items: center;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+
+
 }
 .care{
     height: 150px;
@@ -76,8 +83,18 @@ body{
     font-size: 45px;
     text-align: center;
     margin: 35px;
+    color: #EECCCC;
 }
-.buttonn{border-radius: 25px;
+.fonnt{
+    font-size: 30px;
+    text-align: center;
+    /* margin: 35px; */
+    color: #EECCCC;
+    line-height: 20px;
+
+
+}
+.buttonn{border-radius: 40px;
 background-color: #443b5d;
 padding: 20px;
 color: #EECCCC;
@@ -93,7 +110,7 @@ text-align: center;
 
 }
 .copyright{font-size: 30px;
-  margin: 20px 300px;
+  margin: 20px 250px;
 
 font-family: Poppins;
 font-style: normal;
