@@ -1,0 +1,113 @@
+*,
+::before,
+::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  line-height: 1.6;
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1.4rem;
+  font-family: sans-serif;
+  background-color: var(--color-secondary);
+}
+
+:root {
+  --color-primary: #443b5d;
+  --color-secondary: #eecccc;
+}
+
+.heading-2 {
+  font-size: 3.2rem;
+}
+
+.heading-3 {
+  font-size: 2.5rem;
+}
+
+.icon {
+  height: 2.4rem;
+}
+
+#container {
+  background-color: var(--color-secondary);
+}
+
+.detail {
+  display: flex;
+  flex-direction: column;
+
+  width: 90%;
+  margin: 4rem auto;
+}
+
+.banner {
+  height: 5rem;
+  background-color: var(--color-primary);
+}
+
+.doc {
+  display: flex;
+
+  padding: 2rem;
+  margin-top: 4rem;
+}
+
+.doc__img {
+  height: 35rem;
+}
+
+.doc__content {
+  margin-left: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.doc__category {
+  font-weight: lighter;
+  margin-top: 1rem;
+}
+
+.doc__name {
+  margin-top: 2rem;
+}
+
+.address {
+  font-size: 2rem;
+  margin-top: 4rem;
+}
+
+.address p {
+  margin-bottom: 1rem;
+}
+
+.stars {
+  margin-top: auto;
+}
+
+.statement {
+  margin: 2rem auto;
+}
+
+.statement h3 {
+  font-size: 2.4rem;
+  padding-left: 1rem;
+  color: var(--color-secondary);
+  background-color: var(--color-primary);
+
+  display: flex;
+  align-items: center;
+}
+
+.statement__text {
+  font-size: 2rem;
+  font-weight: 300;
+  margin-top: 2rem;
+}
