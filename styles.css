@@ -1,6 +1,8 @@
 
 header {
     background-color: #443b5d !important;
+    height: 140px;
+    color: #eecccc;
 }
 
 
@@ -10,12 +12,13 @@ nav ul {
     font-size: 30px;
     font-weight: 800;
     list-style-type: none;
-    margin-left: 200px;
+    margin-left: 80px;
+    color: #eecccc;
     
 }
 nav li {
     margin: 30px;
-    color: #ffffff;
+    color: #eecccc;
     margin-left: 30px;
 }
 .btn {
@@ -24,14 +27,14 @@ nav li {
     width: 180px;
     font-size: 25px;
     font-weight: 800;
-    background-color: white;
+    background-color: #eecccc;
     color: #443b5d;
 }
-z
+
 .logo {
     padding-right: 50px;
     width: 200px;
-    height: 200px;
+    height: 138px;
 }
 .active {
     color: #8b5d4f;
@@ -76,7 +79,7 @@ span {
     background-color: #443b5d;
     margin-left: 300px;
     margin-right: 250px;
-    color: white;
+    color: #eecccc;
     margin-bottom: 20px;
     font-size: 20px;
 
@@ -86,17 +89,18 @@ footer {
     display: flex;
     background-color: #443b5d;
     height: 160px;
+    color: #eecccc;
 }
 
-.footer-logo {
+/* .footer-logo {
     flex: 1;
-  width: 10%;  
-}
+  width: 30%;  
+} */
 
 .footer-article {
     flex: 1;
     font-size: 20px;
-    color: #ffffff; 
+    color: #eecccc; 
 }
 .map {
     flex: 1;
@@ -119,7 +123,7 @@ input[type=text], select, textarea {
   
   input[type=submit] {
     background-color: #7c5d5d;
-    color: white;
+    color: #eecccc;
     padding: 12px 20px;
     border: none;
     border-radius: 20px;
@@ -146,13 +150,13 @@ input[type=text], select, textarea {
 
   
   .container-form form {
-      color: #ffffff;
+      color: #eecccc;
       margin-left: 150px;
       padding-top: 50px;
       
   }
 
-  
+
   .container {
       background-color: #eecccc;
   }
@@ -166,4 +170,31 @@ input[type=text], select, textarea {
     margin-left: 250px;
     margin-top: 100px;
   }
+
+  .glyphicons {
+      padding: 30px;
+      margin-left: 100px;
+      
+  }
        
+  .fa-google {
+    background: #443b44;
+    color: #eecccc;
+    margin: 20px;
+  }
+  
+  .fa-linkedin {
+    background: #443b44;
+    color: #eecccc;
+  }
+  
+  .fa-twitter {
+    background: #443b44;
+    color: #eecccc;
+  }
+  
+  .fa-facebook {
+    background: #443b44;
+    color: #eecccc;
+    margin: 20px;
+  }
