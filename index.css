@@ -1,3 +1,21 @@
+
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+  }
+
+
 .container{
     background-color: #EECCCC;
 }
@@ -5,6 +23,7 @@
     justify-content: center;
     background-color: #443b5d;
     height: 80px;
+    
 }
 .back >li{
     /* justify-content: center; */
@@ -16,6 +35,9 @@
     color: #EECCCC;
     font-size: 30px;
 }
+/* .button:hover{
+    color:  #8b5d4f;
+} */
 .button{
     font-size: 25px;
     float: right;
@@ -23,7 +45,12 @@
     margin: 23px;
     color: #443b5d;
     background-color: #EECCCC;
+    /* cursor: pointer;
+    box-shadow: -3px -3px 7px, 3px 3px 5px; */
 }
+/* #click{
+    display: none; */
+
 #image{height: 80px;}
 
 .back{text-align: center;
@@ -63,7 +90,7 @@
     color: #EECCCC;
 }
 .what-we-do{
-    height: 594px;
+    height: 635px;
 }
 .what-we-do>p{
     color: #8b5d4f;
@@ -96,7 +123,7 @@
 }
 .buttonn{border-radius: 40px;
 background-color: #443b5d;
-padding: 20px;
+padding: 10px;
 color: #EECCCC;
 font-size: 40px;
 }
