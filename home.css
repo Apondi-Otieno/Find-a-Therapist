@@ -1,27 +1,24 @@
-
-body{
-    background-color: #eecccc;
+body {
+  background-color: #eecccc;
 }
 header {
-    background-color: #443b5d;
-    height: 120px;
+  background-color: #443b5d;
+  height: 120px;
 }
 ul {
-    color: #eecccc;
-    font-size: 30px;
-    font-weight: 800;
-    margin-top: -5px;
-    margin-right: 30px;
-    padding-top: 14px;
-    
+  color: #eecccc;
+  font-size: 30px;
+  font-weight: 800;
+  margin-top: -5px;
+  margin-right: 1px;
+  padding-top: 14px;
 }
 
 .glyphicons {
-    padding: 30px;
-    margin-left: 100px;
-    
+  padding: 30px;
+  margin-left: 100px;
 }
-     
+
 .fa-instagram {
   background: #443b44;
   color: #eecccc;
@@ -45,46 +42,50 @@ ul {
 }
 
 .btn {
-    padding: 8px;
-    width: 130%;
-    background-color: #eecccc;
-    color: #443b5d;
-    font-size: 25px;
-    font-weight: 800;    
+  padding: 8px;
+  width: 130%;
+  background-color: #eecccc;
+  color: #443b5d;
+  font-size: 25px;
+  font-weight: 800;
 }
 
+/* footer img {
+  float: left;
+  width: 40%;
+  margin-top: 0rem;
+} */
 
 ul li {
-    list-style-type: none;
-    display: inline-block;
-    padding-right: 10px;
-    margin-left:35px;
-    margin-top: 25px;
-    float: right;
+  list-style-type: none;
+  display: inline-block;
+  padding-right: 100px;
+  margin-left: 35px;
+  margin-top: 25px;
+  float: right;
 }
 
 li a {
-    text-decoration: none;
-    color: #eecccc;
+  text-decoration: none;
+  color: #eecccc;
 }
 
-.btn-2{
-    background-color: #443b5d;
-    color: #eecccc;
+.btn-2 {
+  background-color: #443b5d;
+  color: #eecccc;
 }
 
 .container {
-    display: flex;
-    font-size: 32px;
+  display: flex;
+  font-size: 32px;
 }
 .main {
-    flex: 1;
-    padding-right: 60px;
+  flex: 1;
+  padding-right: 60px;
 }
 .article {
-    flex: 1;
+  flex: 1;
 }
 
 .section {
-
 }

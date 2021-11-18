@@ -1,0 +1,139 @@
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+}
+
+.contain {
+  background-color: #eecccc;
+}
+/* .logo {
+  justify-content: center;
+  background-color: #443b5d;
+  height: 80px;
+} */
+/* .back > li { */
+/* justify-content: center; */
+/* list-style: none;
+  display: inline-flex; */
+/* justify-content: space-between; */
+/* margin: 17px;
+  right: 100px;
+  color: #eecccc;
+  font-size: 30px;
+} */
+/* .button:hover{
+    color:  #8b5d4f;
+} */
+.button {
+  font-size: 25px;
+  float: right;
+  padding: 6px;
+  margin: 23px;
+  color: #443b5d;
+  background-color: #eecccc;
+  /* cursor: pointer;
+    box-shadow: -3px -3px 7px, 3px 3px 5px; */
+}
+/* #click{
+    display: none; */
+
+#image {
+  height: 80px;
+}
+
+.back {
+  text-align: center;
+  bottom: 80px;
+  position: relative;
+}
+.about {
+  height: 300px;
+}
+.float > h1 {
+  color: #443b5d;
+}
+.float > p {
+  color: #8b5d4f;
+}
+#image2 {
+  height: 300px;
+  padding: 25px;
+  margin: 25px;
+}
+.float {
+  float: right;
+}
+.choose {
+  background-color: #443b5d;
+  height: 300px;
+}
+#center {
+  text-align: center;
+}
+.display {
+  display: flex;
+  justify-content: space-evenly;
+  color: #eecccc;
+}
+.displa {
+  display: flex;
+  justify-content: space-evenly;
+  bottom: 25px;
+  position: relative;
+  color: #eecccc;
+}
+.what-we-do {
+  height: 635px;
+}
+.what-we-do > p {
+  color: #8b5d4f;
+}
+.image3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.care {
+  height: 150px;
+  background-color: #443b5d;
+}
+.font {
+  font-size: 45px;
+  text-align: center;
+  margin: 35px;
+  color: #eecccc;
+}
+.fonnt {
+  font-size: 30px;
+  text-align: center;
+  /* margin: 35px; */
+  color: #eecccc;
+  line-height: 20px;
+}
+.buttonn {
+  border-radius: 40px;
+  background-color: #443b5d;
+  padding: 10px;
+  color: #eecccc;
+  font-size: 40px;
+}
+.shadow {
+  height: 100px;
+  text-align: center;
+}
+/* .footer {
+  height: 80px;
+  background-color: #443b5d;
+  display: flex;
+  text-align: center;
+}
+.copyright {
+  font-size: 30px;
+  margin: 20px 250px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+
+  text-align: center;
+
+  color: #eecccc;
+} */
