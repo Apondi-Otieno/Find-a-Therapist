@@ -233,24 +233,35 @@ font-family: "josefin sans";
 
 
 .contact {
-  height: 20%;
+  height: 1000%;
+  text-align: right;
+  padding-bottom: 10rem;
+  background-color: #eecccc
 }
-
-/*footer*/
-
-/* footer{
-    height: 150px;
-    background-color: #443b5d;
-    color: #eecccc;
-} */
-
+ .yellow{
+   float: left;
+   margin-left: 4%;
+   height: 40%;
+   width: 60%;
+   margin-top: 4%;
+ }
 
 
-/* .logo-img1 {
-    width: 12%;
-    height: 20%;
-    float:left;
-} */
+ .contact>h4 {
+   font-family: 'josefin sans';
+   color: #443B44;
+   font-size: 2rem;
+   padding-top: 1rem;
+   margin-right: 5rem;
+
+ }
+
+ .contact>p {
+   font-family: EB garamond;
+   color: #443b5d;
+   font-size: 2rem;
+   padding-right: 5rem;
+ }
 .icons a {
     color: #eecccc;
     padding: 1rem;
@@ -258,12 +269,7 @@ font-family: "josefin sans";
     text-decoration: none;
 }
 
-/* 
-iframe{
-    float: right;
-    margin-top: rem;
 
-} */
 
 .icons {
     text-align: center;
