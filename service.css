@@ -1,56 +1,3 @@
-html {
-  padding:4rem;
-}
-
-header {
-  background-color: #eecccc;
-  height: rem;
-  font-family: "Poppins";
-  position: relative;
-}
-
-.logo1-img {
-    float: left;
-}
-
-
-
-/*nav*/
-
-.header {
-  width: 100%;
-  align-items: center;
-  justify-content: space-between;
-  top: 0;
-  left: 0;
-  z-index: 1;
-}
-
-nav {
-  width: 100%;
-  align-items: center;
-  
-  display: flex;
-  background-color: #443b5d;
-}
-nav ul li {
-  padding: 1rem;
-  list-style-type: none;
-  display: inline-flex;
-
- }
-nav ul li a:hover {
-  color: #8b5d4f;
-}
-
-ul li a {
-  text-decoration: none;
-  font-size: 1.5rem;
-  color: #eecccc;
-  margin-left: -4%;
-  
-}
-
 .btn1 {
   padding: 10px;
   padding-left: 40px;
@@ -59,16 +6,16 @@ ul li a {
   border-width: 0.4rem;
   border-color: #eecccc;
   background-color: #eecccc;
-  font-family: 'poppins';
+  font-family: "poppins";
   font-size: 1.4rem;
-  color: #443b5d
+  color: #443b5d;
 }
 
 /*body*/
 
 .body {
   background-color: #eecccc;
-  height: 90%;
+  height: 80%;
 }
 
 .heading1 {
@@ -110,12 +57,10 @@ ul li a {
   border-bottom: solid #443b5d;
   border-width: rem;
   padding-bottom: 10rem;
-  
 }
 
 /*service1 image*/
-
-img {
+.img {
   float: right;
   width: 40%;
   margin-top: -34rem;
@@ -127,8 +72,6 @@ img {
   margin-right: 4rem;
   text-align: right;
   font-family: "josefin sans";
-  
-  
 }
 
 .service2 > p {
@@ -140,13 +83,11 @@ img {
   padding-bottom: 5rem;
   border-bottom: solid #443b5d;
   border-width: rem;
-  
 }
 
 .image2 {
   float: left;
   margin-top: -34rem;
- 
 }
 
 /*service3*/
@@ -156,27 +97,24 @@ img {
 
 .service3 {
   margin-top: 10%;
-padding: 2rem;
-padding-top: 15rem;
-background-color: #443b5d57;
-border: 1px solid #eecccc;
-border-radius: 12px;
-height: 50%;
-padding-top: 5%;
-width: 35%;
-text-align: center;
-align-items: center;
-margin-left: 5%;
-padding-bottom: 4%
-
+  padding: 2rem;
+  padding-top: 15rem;
+  background-color: #443b5d57;
+  border: 1px solid #eecccc;
+  border-radius: 12px;
+  height: 50%;
+  padding-top: 5%;
+  width: 35%;
+  text-align: center;
+  align-items: center;
+  margin-left: 5%;
+  padding-bottom: 4%;
 }
 
 .service3 > h2 {
-font-family: "josefin sans";
-
+  font-family: "josefin sans";
 }
-.service3>p {
-  
+.service3 > p {
   text-align: left;
   font-family: "EB garamond";
   font-size: 1.3rem;
@@ -185,38 +123,34 @@ font-family: "josefin sans";
 }
 
 .image3 {
-   width: 100%;
-   height: 100%;
-   float: left;
-   margin-top: 0.1rem;
+  width: 100%;
+  height: 100%;
+  float: left;
+  margin-top: 0.1rem;
 }
 
 /*service4*/
 
-
 .service4 {
   margin-top: 10%;
-padding: 2rem;
-padding-top: 15rem;
-background-color:#8b5d4f5e;
-border: 1px solid #eecccc;
-border-radius: 12px;
-height: 50%;
-padding-top: 5%;
-width: 35%;
-text-align: center;
-align-items: center;
-margin-left: 5%;
-padding-bottom: 4%
-
+  padding: 2rem;
+  padding-top: 15rem;
+  background-color: #8b5d4f5e;
+  border: 1px solid #eecccc;
+  border-radius: 12px;
+  height: 50%;
+  padding-top: 5%;
+  width: 35%;
+  text-align: center;
+  align-items: center;
+  margin-left: 5%;
+  padding-bottom: 4%;
 }
 
 .service4 > h2 {
-font-family: "josefin sans";
-
+  font-family: "josefin sans";
 }
-.service4>p {
-  
+.service4 > p {
   text-align: left;
   font-family: "EB garamond";
   font-size: 1.3rem;
@@ -225,95 +159,37 @@ font-family: "josefin sans";
 }
 
 .image4 {
-   width: 100%;
-   height: 100%;
-   float: left;
-   margin-top: 0.1rem;
+  width: 100%;
+  height: 100%;
+  float: left;
+  margin-top: 0.1rem;
 }
 
+/*footer*/
 
-.contact {
-  height: 1000%;
-  text-align: right;
-  padding-bottom: 10rem;
-  background-color: #eecccc
+.image5 {
+  height: 50%;
+  width: 60%;
+  float: left;
+  margin-top: 4%;
+  margin-left: 5rem;
 }
- .yellow{
-   float: left;
-   margin-left: 4%;
-   height: 40%;
-   width: 60%;
-   margin-top: 4%;
- }
 
-
- .contact>h4 {
-   font-family: 'josefin sans';
-   color: #443B44;
-   font-size: 2rem;
-   padding-top: 1rem;
-   margin-right: 5rem;
-
- }
-
- .contact>p {
-   font-family: EB garamond;
-   color: #443b5d;
-   font-size: 2rem;
-   padding-right: 5rem;
- }
 .icons a {
-    color: #eecccc;
-    padding: 1rem;
-    font-size: rem;
-    text-decoration: none;
-}
-
-
-
-.icons {
-    text-align: center;
-    float: left;
-
-}.glyphicons {
-  padding: 30px;
-  margin-left: 100px;
-}
-.fa a{
+  color: #eecccc;
+  padding: 1rem;
+  font-size: 2rem;
   text-decoration: none;
 }
-.fa-instagram {
-background: #443B44;
-color: #EECCCC;
-margin: 20px;
-}
-.fa-linkedin {
-background: #443B44;
-color: #EECCCC;
-}
-.fa-twitter {
-background: #443B44;
-color: #EECCCC;
-}
-.fa-facebook {
-background: #443B44;
-color: #EECCCC;
-margin: 20px;
+
+iframe {
+  float: right;
+  margin-top: 5.8rem;
 }
 
-.logo2 {
-position: absolute;
-width:13%; 
-margin-top: 1px;
+.icons {
+  text-align: center;
+  float: left;
+  margin-left: 30%;
+  margin-top: 15%;
 }
-
-
-
-
-
-
-
-
-
-
-
