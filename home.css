@@ -59,8 +59,8 @@ ul {
 ul li {
   list-style-type: none;
   display: inline-block;
-  padding-right: 100px;
-  margin-left: 35px;
+  padding-right: 70px;
+  margin-left: 20px;
   margin-top: 25px;
   float: right;
 }
