@@ -8,7 +8,7 @@ header.innerHTML = `
    <ul>
       <img class="logg" src="images_master_branch/logo.jpg" alt="Logo"
          style="width: 110px;height: 110px;margin-left:-37px;margin-top: -9px;position: absolute;">
-      <li><button class="btn">LOGIN</button></li>
+      <li><button class="btn btn--login">LOGIN</button></li>
       <li> <a href="contact_us.html"> CONTACT</a> </li>
       <li> <a href="About.html">ABOUT</a></li>
       <li><a href="service.html">SERVICES</a></li>
