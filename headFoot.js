@@ -12,11 +12,11 @@ header.innerHTML = `
       <li> <a href="contact_us.html"> CONTACT</a> </li>
       <li> <a href="About.html">ABOUT</a></li>
       <li><a href="service.html">SERVICES</a></li>
-      <li><a href="home.html">HOME</a> </li>
+      <li><a href="index.html">HOME</a> </li>
    </ul>
 </nav>
-`;
 
+`
 footer.innerHTML = `
    
 
