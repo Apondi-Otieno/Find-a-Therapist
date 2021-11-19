@@ -9,7 +9,7 @@ Therapists on this platform are vetted and licensed.
 
 ## Demo
 
-[Live Demo](https://davidkiama.github.io/Letuce-Eat/)
+[Live Demo](https://apondi-otieno.github.io/Find-a-Therapist/)
 
 ## Technologies Used
 
@@ -26,7 +26,7 @@ Therapists on this platform are vetted and licensed.
 
 ## Project setup and instructions
 
-I have deployed the page and here is the [link]().
+I have deployed the page and here is the [link](https://apondi-otieno.github.io/Find-a-Therapist/).
 
 ## Support and contact details
 
