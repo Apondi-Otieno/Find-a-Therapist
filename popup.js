@@ -5,7 +5,7 @@ let popup = `
 <div class="login hidden">
       <button class="close-modal ">&times;</button>
 
-      <h2 class="heading-2 login__title">Login</h2>
+      <p class="login__title">Login</p>
 
       <form action="#">
 
