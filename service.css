@@ -193,3 +193,8 @@ iframe {
   margin-left: 30%;
   margin-top: 15%;
 }
+
+.btn-5 a {
+  color: #eecccc;
+  text-decoration: none;
+}

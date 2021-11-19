@@ -47,6 +47,8 @@
 
 .login__title {
   text-align: center;
+  font-size: 32px;
+  margin: 10px;
 }
 
 .login form {
@@ -80,6 +82,7 @@
   background-color: var(--color-secondary);
   align-self: center;
   margin-top: 1rem;
+  color: black;
 }
 
 .overlay {
