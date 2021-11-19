@@ -22,7 +22,7 @@ Therapists on this platform are vetted and licensed.
 [Apondi Otieno](https://github.com/Apondi-Otieno)
 [Joseph Wairimu](https://github.com/Joseph-Wairimu)
 [David Kiama](https://github.com/davidkiama)
-[Pascal Owilly]()
+[Pascal Owilly](https://github.com/Pascal-Owilly)
 
 ## Project setup and instructions
 
